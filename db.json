@@ -1,0 +1,16 @@
+{
+    "stats": {
+      "totalSales": "1,200",
+      "totalUsers": "3,400",
+      "revenue": "$15,000",
+      "pieChartData": {
+        "labels": ["Product A", "Product B", "Product C"],
+        "values": [50, 25, 25]
+      },
+      "barChartData": {
+        "labels": ["January", "February", "March"],
+        "values": [30, 45, 60]
+      }
+    }
+  }
+  
